@@ -1,7 +1,7 @@
 # examples
 A repo just for Plant Pheno Ontology examples  
 
-Testing Commits
+# Testing Commits
 Here are some simple instructions to get started with Git from the Commandline.  This assumes you have the commandline git installed on your computer.  You can put test commits into the test directory
 
 Clone repo into named directory (Get the HTTPS address from the Repo)
