@@ -6,6 +6,7 @@ Here are some simple instructions to get started with Git from the Commandline. 
 
 Clone repo into named directory (Get the HTTPS address from the Repo)
 ```
+cd {some directory one level up from where you want this directory located}
 git clone https://github.com/PlantPhenoOntology/examples.git examples
 ```
 
